@@ -14,3 +14,7 @@ Finding differences in different CNN architectures using Python Keras
 2. Upload zips 'chest-xray-pneumonia.zip' and 'covid-chest-xray.zip' in this folder.
 3. Open the ipynb file with Google Colab and mount your drive on it.
 4. the program will take care of further steps of setting up the data. 
+
+### ***Datazips location***
+1. covid-chest-xray.zip - https://drive.google.com/open?id=1aQttwLUOtSIYCulM159p62A5SSaNhAgx
+2. chest-xray-pneumonia.zip - 
