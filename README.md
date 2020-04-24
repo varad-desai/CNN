@@ -17,4 +17,4 @@ Finding differences in different CNN architectures using Python Keras
 
 ### ***Datazips location***
 1. covid-chest-xray.zip - https://drive.google.com/open?id=1aQttwLUOtSIYCulM159p62A5SSaNhAgx
-2. chest-xray-pneumonia.zip - 
+2. chest-xray-pneumonia.zip - https://drive.google.com/open?id=1aQttwLUOtSIYCulM159p62A5SSaNhAgx
