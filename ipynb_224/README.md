@@ -1,1 +1,1 @@
-This folder contains model training having inputs of 224*224*3
+This folder contains model training having inputs of 224x224x3
