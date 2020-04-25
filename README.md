@@ -1,6 +1,14 @@
 # ***CNN***
 Finding differences in different CNN architectures using Python Keras
 
+# ***Technology stack***
+
+Python 3.6.9
+Google colab
+Keras 2.3.1          
+Keras-Applications 1.0.8          
+Keras-Preprocessing 1.1.0
+
 ### ***Architectures Implemented here***
 
 1. VGG16
