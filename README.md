@@ -3,8 +3,8 @@ Finding differences in different CNN architectures using Python Keras
 
 # ***Technology stack***
 
-1. Python 3.6.9
-2. Google colab
+1. Google colab
+2. Python 3.6.9
 3. Keras 2.3.1       
 4. Keras-Applications 1.0.8          
 5. Keras-Preprocessing 1.1.0
